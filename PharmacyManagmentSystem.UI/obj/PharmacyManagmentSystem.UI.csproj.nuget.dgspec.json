@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagmentSystem.UI\\PharmacyManagmentSystem.UI.csproj": {}
+  },
+  "projects": {
+    "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.BLL\\PharmacyManagementSystem.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.BLL\\PharmacyManagementSystem.BLL.csproj",
+        "projectName": "PharmacyManagementSystem.BLL",
+        "projectPath": "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.BLL\\PharmacyManagementSystem.BLL.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.DAL\\PharmacyManagementSystem.DAL.csproj": {
+                "projectPath": "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.DAL\\PharmacyManagementSystem.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "iTextSharp": {
+              "target": "Package",
+              "version": "[5.5.13.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.DAL\\PharmacyManagementSystem.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.DAL\\PharmacyManagementSystem.DAL.csproj",
+        "projectName": "PharmacyManagementSystem.DAL",
+        "projectPath": "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.DAL\\PharmacyManagementSystem.DAL.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagmentSystem.UI\\PharmacyManagmentSystem.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagmentSystem.UI\\PharmacyManagmentSystem.UI.csproj",
+        "projectName": "PharmacyManagmentSystem.UI",
+        "projectPath": "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagmentSystem.UI\\PharmacyManagmentSystem.UI.csproj",
+        "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
+        "outputPath": "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagmentSystem.UI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.BLL\\PharmacyManagementSystem.BLL.csproj": {
+                "projectPath": "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.BLL\\PharmacyManagementSystem.BLL.csproj"
+              },
+              "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.DAL\\PharmacyManagementSystem.DAL.csproj": {
+                "projectPath": "D:\\ITI\\Project C# Copy\\PharmacyManagmentSystem\\PharmacyManagementSystem.DAL\\PharmacyManagementSystem.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "CrystalReports.Engine": {
+              "target": "Package",
+              "version": "[13.0.4003, )"
+            },
+            "CrystalReports.ReportAppServer.ReportDefModel": {
+              "target": "Package",
+              "version": "[13.0.4003, )"
+            },
+            "Guna.Charts.WinForms": {
+              "target": "Package",
+              "version": "[1.0.9, )"
+            },
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
+            "iTextSharp-LGPL": {
+              "target": "Package",
+              "version": "[4.1.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

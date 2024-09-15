@@ -1,0 +1,30 @@
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\bin\Debug\net7.0-windows\PharmacyManagementSystem.DAL.deps.json
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\bin\Debug\net7.0-windows\PharmacyManagementSystem.DAL.runtimeconfig.json
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\bin\Debug\net7.0-windows\PharmacyManagementSystem.DAL.dll
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\bin\Debug\net7.0-windows\PharmacyManagementSystem.DAL.pdb
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.csproj.AssemblyReference.cache
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.AssemblyInfoInputs.cache
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.AssemblyInfo.cs
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.csproj.CoreCompileInputs.cache
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.sourcelink.json
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.dll
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\refint\PharmacyManagementSystem.DAL.dll
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.pdb
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.genruntimeconfig.cache
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\ref\PharmacyManagementSystem.DAL.dll
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\bin\Debug\net7.0-windows\PharmacyManagementSystem.DAL.deps.json
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\bin\Debug\net7.0-windows\PharmacyManagementSystem.DAL.runtimeconfig.json
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\bin\Debug\net7.0-windows\PharmacyManagementSystem.DAL.dll
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\bin\Debug\net7.0-windows\PharmacyManagementSystem.DAL.pdb
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.csproj.AssemblyReference.cache
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.AssemblyInfoInputs.cache
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.AssemblyInfo.cs
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.csproj.CoreCompileInputs.cache
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.sourcelink.json
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.dll
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\refint\PharmacyManagementSystem.DAL.dll
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.pdb
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\PharmacyManagementSystem.DAL.genruntimeconfig.cache
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.DAL\obj\Debug\net7.0-windows\ref\PharmacyManagementSystem.DAL.dll

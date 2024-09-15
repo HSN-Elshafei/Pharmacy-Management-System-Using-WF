@@ -1,0 +1,36 @@
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\bin\Debug\net7.0-windows\PharmacyManagementSystem.BLL.deps.json
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\bin\Debug\net7.0-windows\PharmacyManagementSystem.BLL.runtimeconfig.json
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\bin\Debug\net7.0-windows\PharmacyManagementSystem.BLL.dll
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\bin\Debug\net7.0-windows\PharmacyManagementSystem.BLL.pdb
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\bin\Debug\net7.0-windows\PharmacyManagementSystem.DAL.dll
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\bin\Debug\net7.0-windows\PharmacyManagementSystem.DAL.pdb
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.csproj.AssemblyReference.cache
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.AssemblyInfoInputs.cache
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.AssemblyInfo.cs
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.csproj.CoreCompileInputs.cache
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.sourcelink.json
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\Pharmacy.43D9896F.Up2Date
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.dll
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\refint\PharmacyManagementSystem.BLL.dll
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.pdb
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.genruntimeconfig.cache
+D:\ITI\Project C#\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\ref\PharmacyManagementSystem.BLL.dll
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\bin\Debug\net7.0-windows\PharmacyManagementSystem.BLL.deps.json
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\bin\Debug\net7.0-windows\PharmacyManagementSystem.BLL.runtimeconfig.json
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\bin\Debug\net7.0-windows\PharmacyManagementSystem.BLL.dll
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\bin\Debug\net7.0-windows\PharmacyManagementSystem.BLL.pdb
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\bin\Debug\net7.0-windows\PharmacyManagementSystem.DAL.dll
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\bin\Debug\net7.0-windows\PharmacyManagementSystem.DAL.pdb
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.csproj.AssemblyReference.cache
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.AssemblyInfoInputs.cache
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.AssemblyInfo.cs
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.csproj.CoreCompileInputs.cache
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.sourcelink.json
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\Pharmacy.43D9896F.Up2Date
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.dll
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\refint\PharmacyManagementSystem.BLL.dll
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.pdb
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\PharmacyManagementSystem.BLL.genruntimeconfig.cache
+D:\ITI\Project C# Copy\PharmacyManagmentSystem\PharmacyManagementSystem.BLL\obj\Debug\net7.0-windows\ref\PharmacyManagementSystem.BLL.dll
